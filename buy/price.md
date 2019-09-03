@@ -6,7 +6,7 @@ Anycast全球清洗为预付费模式。
 
 ### AnycastEIP地址费用
 
-首先需要购买AnycastEIP.AnycastEIP默认支持全球3Gbps的防护能力。
+首先需要购买AnycastEIP.AnycastEIP默认支持全球2Gbps的防护能力。
 
 ### Anycast防护包
 
